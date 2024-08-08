@@ -1,28 +1,23 @@
----
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+# 🍃 Spring Boot
 
-# Welcome
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+{% content-ref url="../../book-study/editor/chapter-1-jvm.md" %}
+[chapter-1-jvm.md](../../book-study/editor/chapter-1-jvm.md)
+{% endcontent-ref %}
 
-### Jump right in
+{% content-ref url="../../book-study/editor/chapter-2-runtime-data-areas.md" %}
+[chapter-2-runtime-data-areas.md](../../book-study/editor/chapter-2-runtime-data-areas.md)
+{% endcontent-ref %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td><a href=".gitbook/assets/1.png">1.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/2.png">2.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td><a href=".gitbook/assets/3.png">3.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+{% content-ref url="../../book-study/editor/chapter-3-gc.md" %}
+[chapter-3-gc.md](../../book-study/editor/chapter-3-gc.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../book-study/editor/chapter-4-class-loader.md" %}
+[chapter-4-class-loader.md](../../book-study/editor/chapter-4-class-loader.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../book-study/editor/chapter-5-execution-engine.md" %}
+[chapter-5-execution-engine.md](../../book-study/editor/chapter-5-execution-engine.md)
+{% endcontent-ref %}

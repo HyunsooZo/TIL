@@ -1,13 +1,11 @@
 # Table of contents
 
-* [Welcome](README.md)
-* [Page](page.md)
-
 ## 🐛 Debug Log
 
-* [🍃 Spring Boot](debug-log/editor/README.md)
+* [🍃 Spring Boot](README.md)
   * [👨‍💻 issue](debug-log/editor/issue.md)
-* [👨‍🔬 Test Code](debug-log/test-code.md)
+* [👨‍🔬 Test Code](debug-log/test-code/README.md)
+  * [❕ MockedStatic](debug-log/test-code/mockedstatic.md)
 
 ## 📚 Book Study
 
