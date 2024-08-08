@@ -3,7 +3,7 @@
 ## 🐛 Debug Log
 
 * [🍃 Spring Boot](README.md)
-  * [👨‍💻 issue](debug-log/editor/issue.md)
+  * [❓ issue](debug-log/editor/issue.md)
 * [👨‍🔬 Test Code](debug-log/test-code/README.md)
   * [❕ MockedStatic](debug-log/test-code/mockedstatic.md)
   * [❕ ReflectionTestUtils](debug-log/test-code/reflectiontestutils.md)
