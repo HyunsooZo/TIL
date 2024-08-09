@@ -1,15 +1,16 @@
 # Table of contents
 
-## 🐛 Debug Log
+## 🐛 Today I Learned
 
 * [🍃 Spring Boot](README.md)
-  * [❓ issue](debug-log/editor/issue.md)
-* [👨‍🔬 Test Code](debug-log/test-code/README.md)
-  * [❕ MockedStatic](debug-log/test-code/mockedstatic.md)
-  * [❕ ReflectionTestUtils](debug-log/test-code/reflectiontestutils.md)
+* [👨‍🔬 Test Code](today-i-learned/test-code/README.md)
+  * [❕ MockedStatic](today-i-learned/test-code/mockedstatic.md)
+  * [❕ ReflectionTestUtils](today-i-learned/test-code/reflectiontestutils.md)
+* [❓ Issue Resolution](today-i-learned/issue-resolution.md)
 
 ## 📚 Book Study
 
+* [🌊 The Clean Coder](book-study/the-clean-coder.md)
 * [👨‍🏫 Software Craftsman](book-study/software-craftsman.md)
 * [🏝️ Java Performance Fundamental](book-study/editor/README.md)
   * [1️⃣ Chapter 1 : JVM](book-study/editor/chapter-1-jvm.md)
