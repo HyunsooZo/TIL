@@ -11,9 +11,9 @@ description: >-
 
 *   **대안**
 
-    * \`@UtilityClass\`의 경우 인스턴스화 하여 주입받아 Testable 하게 만들기\
+    * \`@UtilityClass\`의 경우 인스턴스화 하여 주입받아 Testable 하게 만들자\
       &#x20;(본인의 경우 회사코드이기도 하고 너무 광범위 하게 사용되어 사실 길게잡고 해당부분을 리팩토링 해야할 것 같다.)
-    * `@Value`와 같은 케이스는 `@TestPropertySource`나 `@DynamicPropertySource`를 사용해서 테스트 환경에서 주입되는 프로퍼티 값을 설정하는 방법이 낫다고 생각된다.
+    * `@Value`와 같은 케이스는 `@TestPropertySource`나 `@DynamicPropertySource`를 사용해프로퍼티 값을 설정하자
     * **유틸리티 클래스의 범용적 사용 제한**: \
       모든 코드에서 유틸리티 클래스를 범용적으로 사용하는 것보다는, 특정 모듈이나 기능 내에서만 사용되도록 경계를 정하는 게 유지보수에 좋다는 의견이 있었다.
     * **컴포지트 패턴 적용**: \
