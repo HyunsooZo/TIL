@@ -14,9 +14,12 @@ description: >-
 1. **MockRestServiceServer 생성**:
    * `` `MockRestServiceServer.createServer(restTemplate);` ``을 통해 \
      \``` RestTemplate` ``과 연결된 모킹 서버를 생성해. 이 서버는 `restTemplate`이 HTTP 요청을 보낼 때 가로채서 미리 설정한 응답을 반환하도록 한다.
-2. **expect 설정**:
-   * `` `mockServer.expect(MockRestRequestMatchers.anything())` ``는 `restTemplate`이 어떤 요청이든 보내면 이를 가로채겠다는 의미이다.
-   * `` `andRespond(MockRestResponseCreators.withSuccess(...))` ``는 가로챈 요청에 대해 어떤 응답을 반환할지 설정하는 부분이다. 아래 예시코드에서는 HTTP 200 상태 코드와 함께 JSON 형식의 응답을 반환하도록 설정하고 있다.
+2.  **expect 설정**:
+
+    * `` `mockServer.expect(MockRestRequestMatchers.anything())` ``는 `restTemplate`이 어떤 요청이든 보내면 이를 가로채겠다는 의미이다.
+    * `` `andRespond(MockRestResponseCreators.withSuccess(...))` ``는 가로챈 요청에 대해 어떤 응답을 반환할지 설정하는 부분이다. 아래 예시코드에서는 HTTP 200 상태 코드와 함께 JSON 형식의 응답을 반환하도록 설정하고 있다.
+
+
 
 ```java
 class ExampleTest {
