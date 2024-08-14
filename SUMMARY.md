@@ -6,6 +6,7 @@
 * [👨‍🔬 Test Code](today-i-learned/test-code/README.md)
   * [❕ MockedStatic](today-i-learned/test-code/mockedstatic.md)
   * [❕ ReflectionTestUtils](today-i-learned/test-code/reflectiontestutils.md)
+  * [❕ MockRestServiceServer](today-i-learned/test-code/mockrestserviceserver.md)
 * [❓ Issue Resolution](today-i-learned/issue-resolution.md)
 
 ## 📚 Book Study
