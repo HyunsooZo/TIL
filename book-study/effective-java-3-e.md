@@ -4,15 +4,11 @@ description: written by Joshua Bloch
 
 # 🦾 Effective Java 3/E
 
-
-
 ### 짧은 리뷰
 
-읽는 중..&#x20;
+읽는 중.. (2024/08/18\~)
 
 ### 책 정리
-
-
 
 <details>
 
