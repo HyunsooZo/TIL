@@ -1,2 +1,2 @@
-# 🍃 Spring Boot
+# 💡 Today I Learned
 

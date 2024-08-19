@@ -1,12 +1,14 @@
 # Table of contents
 
-* [🍃 Spring Boot](README.md)
-  * [☝️ N + 1 Issue](editor/n-+-1-issue.md)
-* [❓ Issue Resolution](issue-resolution.md)
-* [👨‍🔬 Test Code](test-code/README.md)
-  * [❕ MockedStatic](test-code/mockedstatic.md)
-  * [❕ ReflectionTestUtils](test-code/reflectiontestutils.md)
-  * [❕ MockRestServiceServer](test-code/mockrestserviceserver.md)
+* [💡 Today I Learned](README.md)
+  * [🍃 Spring Boot](today-i-learned/editor/README.md)
+    * [☝️ N + 1 Issue](today-i-learned/editor/n-+-1-issue.md)
+  * [☕ Java](today-i-learned/java.md)
+  * [❓ Issue Resolution](today-i-learned/issue-resolution.md)
+  * [👨‍🔬 Test Code](today-i-learned/test-code/README.md)
+    * [❕ MockedStatic](today-i-learned/test-code/mockedstatic.md)
+    * [❕ ReflectionTestUtils](today-i-learned/test-code/reflectiontestutils.md)
+    * [❕ MockRestServiceServer](today-i-learned/test-code/mockrestserviceserver.md)
 
 ## 📚 Book Study
 
