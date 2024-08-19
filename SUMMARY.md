@@ -3,6 +3,7 @@
 ## 🐛 Today I Learned
 
 * [🍃 Spring Boot](README.md)
+  * [☝️ N + 1 Issue](today-i-learned/editor/n-+-1-issue.md)
 * [👨‍🔬 Test Code](today-i-learned/test-code/README.md)
   * [❕ MockedStatic](today-i-learned/test-code/mockedstatic.md)
   * [❕ ReflectionTestUtils](today-i-learned/test-code/reflectiontestutils.md)
@@ -11,7 +12,7 @@
 
 ## 📚 Book Study
 
-* [🦾 Effective Java 3/E](book-study/effective-java-3-e.md)
+* [🦾 Effective Java 3/E](book-study/effective-java-3-e.md)
 * [🌊 Clean Agile](book-study/clean-agile.md)
 * [🌊 The Clean Coder](book-study/the-clean-coder.md)
 * [👨‍🏫 Software Craftsman](book-study/software-craftsman.md)
