@@ -1,14 +1,12 @@
 # Table of contents
 
-## 🐛 Today I Learned
-
 * [🍃 Spring Boot](README.md)
-  * [☝️ N + 1 Issue](today-i-learned/editor/n-+-1-issue.md)
-* [👨‍🔬 Test Code](today-i-learned/test-code/README.md)
-  * [❕ MockedStatic](today-i-learned/test-code/mockedstatic.md)
-  * [❕ ReflectionTestUtils](today-i-learned/test-code/reflectiontestutils.md)
-  * [❕ MockRestServiceServer](today-i-learned/test-code/mockrestserviceserver.md)
-* [❓ Issue Resolution](today-i-learned/issue-resolution.md)
+  * [☝️ N + 1 Issue](editor/n-+-1-issue.md)
+* [❓ Issue Resolution](issue-resolution.md)
+* [👨‍🔬 Test Code](test-code/README.md)
+  * [❕ MockedStatic](test-code/mockedstatic.md)
+  * [❕ ReflectionTestUtils](test-code/reflectiontestutils.md)
+  * [❕ MockRestServiceServer](test-code/mockrestserviceserver.md)
 
 ## 📚 Book Study
 
