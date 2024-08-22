@@ -2,6 +2,7 @@
 
 * [💡 Today I Learned](README.md)
   * [🍃 Spring Boot](today-i-learned/editor/README.md)
+    * [🚑 Spring Batch](today-i-learned/editor/spring-batch.md)
     * [☝️ N + 1 Issue](today-i-learned/editor/n-+-1-issue.md)
   * [☕ Java](today-i-learned/java.md)
   * [❓ Issue Resolution](today-i-learned/issue-resolution.md)
