@@ -2,7 +2,7 @@
 description: 테스트 코드 작성이 필요한 이유에 대해 생각해 보았다.
 ---
 
-# Why We Should Write Test Code ?
+# ❓ Why We Should Write Test Code ?
 
 ### **테스트 코드를 작성해야 하는 이유**
 
