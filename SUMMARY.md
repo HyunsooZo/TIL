@@ -1,6 +1,7 @@
 # Table of contents
 
 * [💡 Today I Learned](README.md)
+  * [📨 WebFlux](today-i-learned/webflux.md)
   * [🍃 Spring Boot](today-i-learned/editor/README.md)
     * [🚑 Spring Batch](today-i-learned/editor/spring-batch.md)
     * [☝️ N + 1 Issue](today-i-learned/editor/n-+-1-issue.md)
