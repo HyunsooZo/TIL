@@ -5,6 +5,7 @@
   * [🍃 Spring Boot](today-i-learned/editor/README.md)
     * [🚑 Spring Batch](today-i-learned/editor/spring-batch.md)
     * [☝️ N + 1 Issue](today-i-learned/editor/n-+-1-issue.md)
+    * [📑 JdbcClient](today-i-learned/editor/jdbcclient.md)
   * [☕ Java](today-i-learned/java/README.md)
     * [🕶️ Virtual Thread](today-i-learned/java/virtual-thread.md)
     * [🦱 Marker Interface](today-i-learned/java/marker-interface.md)
