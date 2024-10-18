@@ -16,6 +16,8 @@
   * [❕ ReflectionTestUtils](today-i-learned/test-code/reflectiontestutils.md)
   * [❕ MockRestServiceServer](today-i-learned/test-code/mockrestserviceserver.md)
 * [📨 WebFlux](today-i-learned/webflux.md)
+* [💁 Et Cetera](today-i-learned/et-cetera/README.md)
+  * [🧜 Mermaid Sequence Diagram](today-i-learned/et-cetera/mermaid-sequence-diagram.md)
 
 ## 📚 Book Study
 
