@@ -21,8 +21,9 @@
 
 ## 📚 Book Study
 
+* [⚙️ 쉽게 배우는 운영체제](book-study/undefined.md)
 * [👲 Modern Java In Action](book-study/modern-java-in-action.md)
-* [💃 객체지향의 사실과 오해](book-study/undefined.md)
+* [💃 객체지향의 사실과 오해](book-study/undefined-1.md)
 * [🦾 Effective Java 3/E](book-study/effective-java-3-e.md)
 * [🌊 Clean Agile](book-study/clean-agile.md)
 * [🌊 The Clean Coder](book-study/the-clean-coder.md)
