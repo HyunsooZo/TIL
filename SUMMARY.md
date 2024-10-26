@@ -18,6 +18,7 @@
 * [📨 WebFlux](today-i-learned/webflux.md)
 * [💁 Et Cetera](today-i-learned/et-cetera/README.md)
   * [🧜 Mermaid Sequence Diagram](today-i-learned/et-cetera/mermaid-sequence-diagram.md)
+  * [🚪 OAuth 2.0](today-i-learned/et-cetera/oauth-2.0.md)
 
 ## 📚 Book Study
 
