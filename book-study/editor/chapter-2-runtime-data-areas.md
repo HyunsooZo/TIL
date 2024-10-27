@@ -5,7 +5,7 @@
   * WAS 사용시 빈번한 성능문제가 발생하는 영역이기도 함
   * Runtime Data Area는 목적에 따라 5개 영역으로 나뉨.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * 이 중에서 PC Register와 두개의 Stack 영역은 각 Thread 별로 생성되고 Method Area와 Heap은 모든 Thread에 공유됨.
 *   **PC Register (a.k.a Program Counter)**
@@ -13,7 +13,7 @@
     * Java는 Register-base 가 아닌 Stack-Base로 작동함
     * JVM은 CPU에 직접 지시하지 않고 Stack-Operand를 뽑아 이를 별도의 메모리 공간에 저장하는 방식을 취함. 이러한 메모리 공간을 PC Register 라고 함.
 
-    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 * PC Register는 각 스레드 마다 하나씩 존재하고 생성 시점도 같음
 * Native Pointer 와 Return Address를 가지고 있음.
 * Java Method를 수행할때 해당 수행 Instruction 주소를 포함함
