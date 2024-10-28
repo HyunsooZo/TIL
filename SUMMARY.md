@@ -16,10 +16,13 @@
   * [❕ ReflectionTestUtils](today-i-learned/test-code/reflectiontestutils.md)
   * [❕ MockRestServiceServer](today-i-learned/test-code/mockrestserviceserver.md)
 * [📨 WebFlux](today-i-learned/webflux.md)
+* [🛡️ Security](today-i-learned/security/README.md)
+  * [🚪 OAuth 2.0](today-i-learned/security/oauth-2.0.md)
+  * [🪙 Json Web Token](today-i-learned/security/json-web-token.md)
+* [📡 Infrastructure](today-i-learned/infrastructure/README.md)
+  * [🧚 Netty](today-i-learned/infrastructure/netty.md)
 * [💁 Et Cetera](today-i-learned/et-cetera/README.md)
-  * [🪙 Json Web Token](today-i-learned/et-cetera/json-web-token.md)
   * [🧜 Mermaid Sequence Diagram](today-i-learned/et-cetera/mermaid-sequence-diagram.md)
-  * [🚪 OAuth 2.0](today-i-learned/et-cetera/oauth-2.0.md)
 
 ## 📚 Book Study
 

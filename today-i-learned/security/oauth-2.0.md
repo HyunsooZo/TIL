@@ -73,7 +73,7 @@ Access Token을 발급하여 권한을 부여하는 역할을 수행하는 서�
 OAuth 2.0 프로토콜에서는 다양한 클라이언트 환경에 적합하도록 \
 권한 부여 방식에 따른 프로토콜을 아래 4가지 종류로 구분하여 제공한다.\
 참고로 하단의 모든 이미지는 이전에 알아봤던 \
-[Mermaid Diagram Live Editor](mermaid-sequence-diagram.md) 를 사용해 만들어보았다.
+[Mermaid Diagram Live Editor](../et-cetera/mermaid-sequence-diagram.md) 를 사용해 만들어보았다.
 
 ### Authorization Code Grant <a href="#id-1-authorization-code-grant" id="id-1-authorization-code-grant"></a>
 
