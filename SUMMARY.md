@@ -7,6 +7,7 @@
   * [☝️ N + 1 Issue](today-i-learned/editor/n-+-1-issue.md)
   * [📑 JdbcClient](today-i-learned/editor/jdbcclient.md)
 * [☕ Java](today-i-learned/java/README.md)
+  * [☕ Servlet](today-i-learned/java/servlet.md)
   * [🕶️ Virtual Thread](today-i-learned/java/virtual-thread.md)
   * [🦱 Marker Interface](today-i-learned/java/marker-interface.md)
 * [❓ Issue Resolution](today-i-learned/issue-resolution.md)
