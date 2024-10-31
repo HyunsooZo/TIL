@@ -10,6 +10,8 @@
   * [☕ Servlet](today-i-learned/java/servlet.md)
   * [🕶️ Virtual Thread](today-i-learned/java/virtual-thread.md)
   * [🦱 Marker Interface](today-i-learned/java/marker-interface.md)
+* [🥁 Kotlin](today-i-learned/kotlin/README.md)
+  * [Kotlin 기초 문법](today-i-learned/kotlin/kotlin.md)
 * [❓ Issue Resolution](today-i-learned/issue-resolution.md)
 * [👨‍🔬 Test Code](today-i-learned/test-code/README.md)
   * [❓ Why We Should Write Test Code ?](today-i-learned/test-code/why-we-should-write-test-code.md)
