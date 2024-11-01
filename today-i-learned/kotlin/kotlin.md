@@ -2,7 +2,7 @@
 description: 코틀린 프로젝트를 시작하며 알아본 생 기초 문법
 ---
 
-# Kotlin 기초 문법
+# 🏀 Kotlin 기초 문법
 
 ## Basic Syntax
 
