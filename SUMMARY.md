@@ -17,7 +17,7 @@
   * [⛹️‍♂️ Kotlin : 함수형 프로그래밍](today-i-learned/kotlin/kotlin-1.md)
   * [🍃 Kotlin : Kotlin + Spring](today-i-learned/kotlin/kotlin-kotlin-+-spring.md)
 * [🥌 DataBase](today-i-learned/database/README.md)
-  * [Index](today-i-learned/database/index.md)
+  * [🔍 Index](today-i-learned/database/index.md)
 * [❓ Issue Resolution](today-i-learned/issue-resolution.md)
 * [👨‍🔬 Test Code](today-i-learned/test-code/README.md)
   * [❓ Why We Should Write Test Code ?](today-i-learned/test-code/why-we-should-write-test-code.md)
