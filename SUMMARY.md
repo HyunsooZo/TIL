@@ -18,6 +18,8 @@
   * [🍃 Kotlin : Kotlin + Spring](today-i-learned/kotlin/kotlin-kotlin-+-spring.md)
 * [🥌 DataBase](today-i-learned/database/README.md)
   * [🔍 Index](today-i-learned/database/index.md)
+* [⛪ Architecture](today-i-learned/architecture/README.md)
+  * [🔷 Domain-Driven Design(DDD)](today-i-learned/architecture/domain-driven-design-ddd.md)
 * [❓ Issue Resolution](today-i-learned/issue-resolution.md)
 * [👨‍🔬 Test Code](today-i-learned/test-code/README.md)
   * [❓ Why We Should Write Test Code ?](today-i-learned/test-code/why-we-should-write-test-code.md)
