@@ -2,7 +2,7 @@
 description: 테이블에서 특정 컬럼에 대한 조회 성능을 최적화하기 위해 사용하는 자료구조
 ---
 
-# 🔍 Index
+# 🔍 DB : Index
 
 ## What's Index ?
 
