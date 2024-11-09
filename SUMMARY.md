@@ -12,6 +12,7 @@
   * [🕶️ Java : Virtual Thread](today-i-learned/java/java-virtual-thread.md)
   * [🦱 Java : Marker Interface](today-i-learned/java/java-marker-interface.md)
   * [⛹️‍♂️ Java : 함수형 프로그래밍](today-i-learned/java/java.md)
+  * [🧩 Java : Thread](today-i-learned/java/java-thread.md)
 * [🥁 Kotlin](today-i-learned/kotlin/README.md)
   * [🏀 Kotlin : 기초 문법](today-i-learned/kotlin/kotlin.md)
   * [⛹️‍♂️ Kotlin : 함수형 프로그래밍](today-i-learned/kotlin/kotlin-1.md)
