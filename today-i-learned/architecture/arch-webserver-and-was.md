@@ -4,7 +4,7 @@ description: >-
   컴포넌트는 웹 환경에서 중요한 역할을 하며, 각각의 기능과 특성이 다르다
 ---
 
-# Arch : WebServer & Was
+# 🖇️ Arch : WebServer & Was
 
 ## Web Server?
 
