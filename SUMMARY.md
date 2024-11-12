@@ -26,6 +26,7 @@
   * [🖇️ Arch : WebServer & Was](today-i-learned/architecture/arch-webserver-and-was.md)
 * [🤹‍♂️ Design Pattern](today-i-learned/design-pattern/README.md)
   * [🔂 Design Pattern : Singlton](today-i-learned/design-pattern/design-pattern-singlton.md)
+  * [🏭 Design Pattern : Factory Method](today-i-learned/design-pattern/design-pattern-factory-method.md)
 * [❓ Issue Resolution](today-i-learned/issue-resolution.md)
 * [👨‍🔬 Test Code](today-i-learned/test-code/README.md)
   * [❓ Why We Should Write Test Code ?](today-i-learned/test-code/why-we-should-write-test-code.md)
