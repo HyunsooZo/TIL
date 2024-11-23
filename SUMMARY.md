@@ -39,8 +39,10 @@
 * [📡 Infrastructure](today-i-learned/infrastructure/README.md)
   * [🧚 Netty](today-i-learned/infrastructure/netty.md)
   * [🌬️ Channel Handler Context](today-i-learned/infrastructure/channel-handler-context.md)
-* [🛳️ Docker](today-i-learned/docker/README.md)
-  * [Docker : What's Docker?](today-i-learned/docker/docker-whats-docker.md)
+* [🐳 Docker](today-i-learned/docker/README.md)
+  * [🥸 Docker : What's Docker?](today-i-learned/docker/docker-whats-docker.md)
+  * [🥗 Docker: Container & Image](today-i-learned/docker/docker-container-and-image.md)
+  * [🧙‍♀️ Docker: Commands](today-i-learned/docker/docker-commands.md)
 * [💁 Et Cetera](today-i-learned/et-cetera/README.md)
   * [🧜 Mermaid Sequence Diagram](today-i-learned/et-cetera/mermaid-sequence-diagram.md)
 
