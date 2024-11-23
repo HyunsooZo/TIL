@@ -9,7 +9,7 @@ description: a.k.a Open Authorization 2.0, OAuth2
 직장 동료들과 진행하는 토이프로젝트에서 인증/인가 에 대한 작업을 맡게되었다.\
 작업에 들어가기 전 사용하게 될 OAuth 2.0 에 대해 알아보았다.\
 결과적으로 우리 프로젝트에서는 외부 소셜 미디어 앱(예: Google, Apple 등) \
-로그인을 구현 해야하므로 **Authorization Code Grant (인가 코드 승인 방식)**을 사용하려 한다.
+로그인을 구현 해야하므로 **Authorization Code Grant (인가 코드 승인 방식)**&#xC744; 사용하려 한다.
 
 > **이유**\
 > 외부 애플리케이션이 액세스 토큰을 안전하게 받을 수 있도록 설계되어있다. \

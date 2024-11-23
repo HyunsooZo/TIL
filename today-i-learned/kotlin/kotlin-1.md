@@ -127,7 +127,7 @@ println("Hello".addExclamation())  // Output: Hello!
 코드를 더욱 간결하게 작성할 수 있게 해준다. \
 이를 통해 불변성을 유지하면서도 다양한 연산을 수행할 수 있다. \
 \
-_+ Java 의 `stream api` 와 다소 유사한 메서드들이 존재한다._\
+&#xNAN;_+ Java 의 `stream api` 와 다소 유사한 메서드들이 존재한다._\
 &#x20;  _다만 `stream api`처럼 별도의 `stream`을 생성하지 않아도 된다!_
 
 ### 함수형이 아닌 방식

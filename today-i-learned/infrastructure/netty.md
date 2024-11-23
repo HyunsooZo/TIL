@@ -28,12 +28,12 @@ WebFlux + Netty 를 사용하고 있고, 지식이 없는 상태에서 접하기
 
 #### 1. Channel
 
-**`Channel`**은 네트워크 소켓이나 연결을 나타내는 인터페이스 \
+**`Channel`**&#xC740; 네트워크 소켓이나 연결을 나타내는 인터페이스 \
 주로 데이터 입출력 작업 수행
 
 #### 2. EventLoop
 
-**`EventLoop`**는 하나 이상의 **`Channel`**에 대한 이벤트를 처리하는 스레드\
+**`EventLoop`**&#xB294; 하나 이상의 **`Channel`**&#xC5D0; 대한 이벤트를 처리하는 스레드\
 이벤트의 등록/실행 담당
 
 #### 3. ChannelFuture
@@ -43,8 +43,8 @@ WebFlux + Netty 를 사용하고 있고, 지식이 없는 상태에서 접하기
 
 #### 4. ChannelHandler와 Pipeline
 
-**`ChannelHandler`**는 입출력 데이터의 처리 로직을 구현하는 곳이며, \
-**`Pipeline`**은 이러한 **`Handler`**들을 연결한 체인
+**`ChannelHandler`**&#xB294; 입출력 데이터의 처리 로직을 구현하는 곳이며, \
+&#xNAN;**`Pipeline`**&#xC740; 이러한 **`Handler`**&#xB4E4;을 연결한 체인
 
 
 

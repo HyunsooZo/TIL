@@ -35,7 +35,7 @@
 #### <mark style="color:red;">3. 테스트와 코드 품질</mark>
 
 **사실 상 매 파트에 빠지지 않고 등장하며 강조되는 부분인데,**  \
-**TDD(Test-Driven Development)**와 코드 리뷰 그리고 **Pair Programming** 의 중요성을 다시 한번 실감했다. \
+**TDD(Test-Driven Development)**&#xC640; 코드 리뷰 그리고 **Pair Programming** 의 중요성을 다시 한번 실감했다. \
 특히 TDD 의 경우 "소프트웨어 장인" 에서도 항상 강조되었던 부분인데, \
 코드의 안정성과 유지보수성이 크게 향상시킬 수 있음을 다시 한 번 느꼈고, \
 이를 현재 회사에서 새로 진행하는 프로젝트에 적용 할 수 있는 부분이 있을지, \
