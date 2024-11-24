@@ -67,7 +67,7 @@ public void exceptionCaught(ChannelHandlerContext ctx, Throwable cause) {
 
 ## ChannelHandlerContext 동작 흐름
 
-<figure><img src="../../.gitbook/assets/스크린샷 2024-10-30 오후 7.51.12.png" alt=""><figcaption><p>출처: 본인</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2024-10-30 오후 7.51.12.png" alt=""><figcaption><p>출처: 본인</p></figcaption></figure>
 
 * **클라이언트가 데이터 전송**: 클라이언트가 서버로 데이터를 전송한다.
 * **채널이 데이터 수신**: Netty의 채널이 데이터를 수신하고, 첫 번째 핸들러인 `HandlerA`에 전달한다.
