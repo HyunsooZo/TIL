@@ -18,6 +18,7 @@
   * [⛹️‍♂️ Kotlin : 함수형 프로그래밍](today-i-learned/kotlin/kotlin-1.md)
   * [🍃 Kotlin : Kotlin + Spring](today-i-learned/kotlin/kotlin-kotlin-+-spring.md)
   * [🦎 Kotlin : tailrec](today-i-learned/kotlin/kotlin-tailrec.md)
+  * [🧩 Kotlin : infix](today-i-learned/kotlin/kotlin-infix.md)
 * [🥌 DataBase](today-i-learned/database/README.md)
   * [🔍 DB : Index](today-i-learned/database/index.md)
   * [🔓 DB : Lock](today-i-learned/database/db-lock.md)
