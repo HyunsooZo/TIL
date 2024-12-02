@@ -19,6 +19,7 @@
   * [🍃 Kotlin : Kotlin + Spring](today-i-learned/kotlin/kotlin-kotlin-+-spring.md)
   * [🦎 Kotlin : tailrec](today-i-learned/kotlin/kotlin-tailrec.md)
   * [🧩 Kotlin : infix](today-i-learned/kotlin/kotlin-infix.md)
+  * [Kotlin : sealed class](today-i-learned/kotlin/kotlin-sealed-class.md)
 * [🥌 DataBase](today-i-learned/database/README.md)
   * [🔍 DB : Index](today-i-learned/database/index.md)
   * [🔓 DB : Lock](today-i-learned/database/db-lock.md)
