@@ -4,7 +4,7 @@ description: >-
   달리 상속을 지원하기 때문에, 상속을 활용한 풍부한 동작을 구현할 수 있다.
 ---
 
-# Kotlin : sealed class
+# 🎫 Kotlin : sealed class
 
 ## **Sealed Class?**
 
