@@ -13,7 +13,7 @@
     * Java는 Register-base 가 아닌 Stack-Base로 작동함
     * JVM은 CPU에 직접 지시하지 않고 Stack-Operand를 뽑아 이를 별도의 메모리 공간에 저장하는 방식을 취함. 이러한 메모리 공간을 PC Register 라고 함.
 
-    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * PC Register는 각 스레드 마다 하나씩 존재하고 생성 시점도 같음
 * Native Pointer 와 Return Address를 가지고 있음.
 * Java Method를 수행할때 해당 수행 Instruction 주소를 포함함
@@ -61,7 +61,7 @@
 
     <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-    ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/27be91b2-add3-4771-858a-64a6e8561d41/add41cd9-33d9-4fae-a1e5-c1c23b629b0d/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA\_2024-07-21\_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE\_2.46.45.png)
+    ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/27be91b2-add3-4771-858a-64a6e8561d41/add41cd9-33d9-4fae-a1e5-c1c23b629b0d/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-07-21_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.46.45.png)
 
     * Java는 타 언어로 작성된 프로그램 /API 툴킷 등과의 통합을 위해 JNI(Java Native Interface) 표준규약을 제공한다.
     * JNI는 Native Code로 되어있는 Function의 호출을 Java 프로그램 내에서도 직접 수행 할 수도, 결과값을 받을 수도 있음.
