@@ -2,7 +2,7 @@
 description: 도메인 주도 개발/설계 방법론
 ---
 
-# 🔷 Domain-Driven Design(DDD)
+# 🔷 Arch : DDD
 
 ## Domain-Driven Design (DDD)란?
 
@@ -67,7 +67,7 @@ DDD에서는 비즈니스 전문가와 개발자 간의 소통을 원활하게 �
 
 ## DDD의 흐름
 
-<figure><img src="../../.gitbook/assets/스크린샷 2024-11-05 오후 8.35.00.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2024-11-05 오후 8.35.00.png" alt=""><figcaption></figcaption></figure>
 
 ## DDD의 장점과 단점
 
