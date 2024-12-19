@@ -29,6 +29,7 @@
     * [⚕️ DDD : Immutable Entity](today-i-learned/architecture/arch-ddd/ddd-immutable-entity.md)
   * [🍕 Arch : Domain-Entity Split](today-i-learned/architecture/arch-domain-entity-split.md)
   * [🖇️ Arch : WebServer & Was](today-i-learned/architecture/arch-webserver-and-was.md)
+  * [Arch : CQRS pattern](today-i-learned/architecture/arch-cqrs-pattern.md)
 * [🤹‍♂️ Design Pattern](today-i-learned/design-pattern/README.md)
   * [🔂 Design Pattern : Singlton](today-i-learned/design-pattern/design-pattern-singlton.md)
   * [🏭 Design Pattern : Factory Method](today-i-learned/design-pattern/design-pattern-factory-method.md)
