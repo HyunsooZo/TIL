@@ -2,7 +2,7 @@
 description: 요즘 개인 프로젝트에 도입해보고 있는 CQRS 패턴에 대해 포스팅 해보았다.
 ---
 
-# Arch : CQRS pattern
+# ✍️ Arch : CQRS pattern
 
 ## CQRS?
 
