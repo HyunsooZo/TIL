@@ -13,6 +13,7 @@
   * [🕶️ Java : Virtual Thread](today-i-learned/java/java-virtual-thread.md)
   * [🦱 Java : Marker Interface](today-i-learned/java/java-marker-interface.md)
   * [⛹️‍♂️ Java : Functional Programming](today-i-learned/java/java-functional-programming.md)
+  * [🐸 Java : Generic With Extends](today-i-learned/java/java-generic-with-extends.md)
 * [🥁 Kotlin](today-i-learned/kotlin/README.md)
   * [🏀 Kotlin : Basic](today-i-learned/kotlin/kotlin-basic.md)
   * [⛹️‍♂️ Kotlin : Functional Programming](today-i-learned/kotlin/kotlin-functional-programming.md)
