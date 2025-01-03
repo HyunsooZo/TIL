@@ -28,7 +28,7 @@
 * [⛪ Architecture](today-i-learned/architecture/README.md)
   * [🔷 Arch : DDD](today-i-learned/architecture/arch-ddd/README.md)
     * [⚕️ DDD : Immutable Entity](today-i-learned/architecture/arch-ddd/ddd-immutable-entity.md)
-    * [DDD : Aggregate in DDD](today-i-learned/architecture/arch-ddd/ddd-aggregate-in-ddd.md)
+    * [🪨 DDD : Aggregate](today-i-learned/architecture/arch-ddd/ddd-aggregate.md)
   * [🍕 Arch : Domain-Entity Split](today-i-learned/architecture/arch-domain-entity-split.md)
   * [🖇️ Arch : WebServer & Was](today-i-learned/architecture/arch-webserver-and-was.md)
   * [✍️ Arch : CQRS pattern](today-i-learned/architecture/arch-cqrs-pattern.md)

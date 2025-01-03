@@ -2,7 +2,7 @@
 description: 이 포스팅에서는 에그리거트가 무엇인지 이해하고, 이를 실제 코드에 어떻게 적용하는지 살펴볼 것이다.
 ---
 
-# DDD : Aggregate in DDD
+# 🪨 DDD : Aggregate
 
 ## Aggregate ?
 
