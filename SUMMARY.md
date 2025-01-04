@@ -7,6 +7,7 @@
   * [☝️ JPA : N + 1 Issue](today-i-learned/editor/jpa-n-+-1-issue.md)
   * [📑 Spring : JdbcClient](today-i-learned/editor/spring-jdbcclient.md)
   * [📨 Spring : WebFlux](today-i-learned/editor/spring-webflux.md)
+  * [🥥 Spring : AOP](today-i-learned/editor/spring-aop.md)
 * [☕ Java](today-i-learned/java/README.md)
   * [☕ Java : Servlet](today-i-learned/java/java-servlet.md)
   * [🧩 Java : Thread](today-i-learned/java/java-thread.md)
