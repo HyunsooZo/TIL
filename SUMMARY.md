@@ -50,6 +50,7 @@
 * [🟥 Redis](today-i-learned/redis/README.md)
   * [🧠 Redis : Caching](today-i-learned/redis/redis-caching.md)
   * [🐎 Redis : Practice & Comparison](today-i-learned/redis/redis-practice-and-comparison.md)
+  * [🔏 Redis : Distributed Lock](today-i-learned/redis/redis-distributed-lock.md)
 * [👨‍🔬 Test Code](today-i-learned/test-code/README.md)
   * [❓ Test : Why Write Test Code](today-i-learned/test-code/test-why-write-test-code.md)
   * [❕ Mockito : MockedStatic](today-i-learned/test-code/mockito-mockedstatic.md)
