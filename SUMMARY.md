@@ -39,6 +39,7 @@
 * [🛡️ Security](today-i-learned/security/README.md)
   * [🚪 Security : OAuth 2.0](today-i-learned/security/security-oauth-2.0.md)
   * [🪙 Security : Json Web Token](today-i-learned/security/security-json-web-token.md)
+  * [🔃 Security : Key Exchange](today-i-learned/security/security-key-exchange.md)
 * [📡 Infrastructure](today-i-learned/infrastructure/README.md)
   * [🧚 Infra : Netty](today-i-learned/infrastructure/infra-netty/README.md)
     * [🌬️ Channel Handler Context](today-i-learned/infrastructure/infra-netty/channel-handler-context.md)
