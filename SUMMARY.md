@@ -26,6 +26,7 @@
   * [🔍 DB : Index](today-i-learned/database/index.md)
   * [🔓 DB : Lock](today-i-learned/database/db-lock.md)
   * [🤝 DB : Transaction](today-i-learned/database/db-transaction.md)
+  * [☠️ DB : Deadlock](today-i-learned/database/db-deadlock.md)
 * [⛪ Architecture](today-i-learned/architecture/README.md)
   * [🔷 Arch : DDD](today-i-learned/architecture/arch-ddd/README.md)
     * [⚕️ DDD : Immutable Entity](today-i-learned/architecture/arch-ddd/ddd-immutable-entity.md)
