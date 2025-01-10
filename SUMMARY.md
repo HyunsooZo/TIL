@@ -9,6 +9,7 @@
   * [📨 Spring : WebFlux](today-i-learned/editor/spring-webflux.md)
   * [🥥 Spring : AOP](today-i-learned/editor/spring-aop.md)
   * [⛳ Spring : RetryTemplate](today-i-learned/editor/spring-retrytemplate.md)
+  * [🍡 Spring : GraphQL](today-i-learned/editor/spring-graphql.md)
 * [☕ Java](today-i-learned/java/README.md)
   * [☕ Java : Servlet](today-i-learned/java/java-servlet.md)
   * [🧩 Java : Thread](today-i-learned/java/java-thread.md)

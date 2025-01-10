@@ -144,7 +144,7 @@ try (var scope = new StructuredTaskScope.ShutdownOnFailure()) {
 
 ### **Flow**
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-01-09 오후 8.24.38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2025-01-09 오후 8.24.38 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
