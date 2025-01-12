@@ -59,6 +59,7 @@
   * [🔏 Redis : Distributed Lock](today-i-learned/redis/redis-distributed-lock.md)
 * [👨‍🔬 Test Code](today-i-learned/test-code/README.md)
   * [❓ Test : Why Write Test Code](today-i-learned/test-code/test-why-write-test-code.md)
+  * [❕ Test : Coverage & Practice](today-i-learned/test-code/test-coverage-and-practice.md)
   * [❕ Mockito : MockedStatic](today-i-learned/test-code/mockito-mockedstatic.md)
   * [❕ Test : ReflectionTestUtils](today-i-learned/test-code/test-reflectiontestutils.md)
   * [❕ Mockito : MockRestServiceServer](today-i-learned/test-code/mockito-mockrestserviceserver.md)
