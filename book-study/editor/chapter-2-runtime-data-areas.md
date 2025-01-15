@@ -5,7 +5,7 @@
   * WAS 사용시 빈번한 성능문제가 발생하는 영역이기도 함
   * Runtime Data Area는 목적에 따라 5개 영역으로 나뉨.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 이 중에서 PC Register와 두개의 Stack 영역은 각 Thread 별로 생성되고 Method Area와 Heap은 모든 Thread에 공유됨.
 *   **PC Register (a.k.a Program Counter)**
@@ -13,7 +13,7 @@
     * Java는 Register-base 가 아닌 Stack-Base로 작동함
     * JVM은 CPU에 직접 지시하지 않고 Stack-Operand를 뽑아 이를 별도의 메모리 공간에 저장하는 방식을 취함. 이러한 메모리 공간을 PC Register 라고 함.
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * PC Register는 각 스레드 마다 하나씩 존재하고 생성 시점도 같음
 * Native Pointer 와 Return Address를 가지고 있음.
 * Java Method를 수행할때 해당 수행 Instruction 주소를 포함함
@@ -40,7 +40,7 @@
 
 
 
-    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
     * JVM의 작업공간과도 같은 곳.
       * JVM이 프로그램을 실행하며 연산을 위해 사용되는 데이터 및 그 결과를 Operand Stack에 넣고 처리함.
@@ -59,7 +59,7 @@
         * 모든 Class File은 Exception Table을 가지고 있는데, Exception발생 시 JVM은 이를 참조해 catch절에 해당하는 Bytecode로 점프
       * Native Method Stacks
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
     ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/27be91b2-add3-4771-858a-64a6e8561d41/add41cd9-33d9-4fae-a1e5-c1c23b629b0d/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-07-21_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.46.45.png)
 

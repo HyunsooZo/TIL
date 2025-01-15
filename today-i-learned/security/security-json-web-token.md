@@ -10,7 +10,7 @@ JWT는 Json Web Token의 약자로 일반적으로 클라이언트와 서버 사
 권한을 위해 사용하는 토큰이다. 웹 상에서 정보를 Json형태로 주고 받기 위해 표준규약에 따라 생성한 \
 암호화된 토큰으로 복잡하고 읽을 수 없는 string 형태로 저장되어있다.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>출처 : <a href="https://jwt.io/">https://jwt.io/</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>출처 : <a href="https://jwt.io/">https://jwt.io/</a></p></figcaption></figure>
 
 ## **JWT의 구조**
 

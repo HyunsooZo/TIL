@@ -37,7 +37,7 @@ Redis는 **단일 스레드 기반**의 **이벤트 루프 모델**로 동작한
 3. **데이터 처리**: 요청된 데이터를 메모리에서 검색하거나 수정한다.
 4. **응답 반환**: 처리된 결과를 클라이언트에 반환한다.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## Why Redis Over Simple In-Memory Caching
 

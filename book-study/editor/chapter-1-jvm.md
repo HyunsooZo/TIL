@@ -21,14 +21,14 @@
 
 
 
-    <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
     * Java API는 Runtime Library의 집합이라고 볼수 있음. (JRE 등)
     * OS System ↔ Java Program 을 이어주는 역할 그야말로 API 역할
     * 이를 통해 OS 제약없는 Java Interface를 통한 실행 가능
     * **The Java Virtual Machine(JVM)**
 
-    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
     * JVM은 소프트웨어로써 존재하며 독자적 작동이 가능한 메커니즘 및 구조 가지고 있음.
     * JVM은 정의된 스펙들을 구현한 하나의 독자적인 Runtime Instance라 볼 수 있음.
