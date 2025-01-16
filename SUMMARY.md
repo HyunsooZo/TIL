@@ -12,6 +12,7 @@
   * [☝️ JPA : N + 1 Issue](today-i-learned/editor/jpa-n-+-1-issue.md)
 * [☕ Java](today-i-learned/java/README.md)
   * [🧩 Java : Thread](today-i-learned/java/java-thread.md)
+  * [🦋 Java : Synchronization](today-i-learned/java/java-synchronization.md)
   * [🤹‍♂️ Java : Serialization](today-i-learned/java/java-serialization.md)
   * [🕶️ Java : Virtual Thread](today-i-learned/java/java-virtual-thread.md)
   * [☕ Java : Servlet](today-i-learned/java/java-servlet.md)
