@@ -1,17 +1,23 @@
 ---
-description: 테이블에서 특정 컬럼에 대한 조회 성능을 최적화하기 위해 사용하는 자료구조
+description: >-
+  데이터베이스에서 대량의 데이터를 효율적으로 관리하기 위해 인덱스는 필수적인 도구이다. 오늘은 인덱스의 개념과 장단점, 그리고 스프링 부트
+  환경에서 JPA와 JdbcClient를 활용해 인덱스를 설정하는 방법에 대해 알아보았다
 ---
 
 # 🔍 DB : Index
 
 ## What's Index ?
 
-인덱스는 데이터베이스 테이블에서 특정 컬럼에 대한 검색 성능을 최적화하기 위해 사용하는 자료구조이다. \
-인덱스는 특정 컬럼을 기반으로 정렬된 구조를 제공하여 데이터 검색 속도를 높인다. \
-인덱스가 없다면 데이터베이스는 테이블의 모든 레코드를 처음부터 끝까지 읽어야 하는 \
-**Full Table Scan**을 수행하게 된다. \
-하지만 인덱스가 설정되어 있다면 데이터베이스는 필요한 레코드의 위치를 빠르게 찾아갈 수 있다. \
-쉽게 말해 인덱스는 책의 목차처럼 원하는 내용을 빠르게 찾을 수 있는 방법을 제공한다.
+\
+**인덱스**는 데이터베이스 테이블에서 특정 컬럼에 대한 검색 성능을 최적화하기 위해 사용하는 자료구조이다.\
+인덱스는 데이터를 특정 컬럼을 기준으로 **정렬된 구조**로 유지하며, 이를 통해 데이터 검색 속도를 크게 높일 수 있다.
+
+### Full Table Scan과 Index Scan의 차이
+
+* **Full Table Scan**: 인덱스가 없을 경우, 테이블의 모든 데이터를 **처음부터 끝까지** 읽어야 한다.
+* **Index Scan**: 인덱스를 사용하면 **필요한 레코드의 위치를 빠르게** 찾아 데이터 검색 성능이 대폭 향상된다.
+
+쉽게 말해, **인덱스는 책의 목차처럼 원하는 내용을 빠르게 찾을 수 있는 방법**을 제공한다.
 
 ## The Way Index Works
 
@@ -24,6 +30,16 @@ description: 테이블에서 특정 컬럼에 대한 조회 성능을 최적화�
 
 만약 위 과정에서 인덱스를 사용하지 않는다면 데이터베이스는 테이블의 모든 데이터를 읽어야 하기 때문에 \
 성능이 크게 저하될 수 있다.
+
+### &#x20;Example&#x20;
+
+데이터베이스에 나이(age) 컬럼의 값이 20인 레코드를 찾는다고 가정하자.
+
+인덱스 없음: 모든 데이터를 처음부터 끝까지 확인해야 하므로 성능이 저하된다. \
+인덱스 있음: \
+B+트리 구조(다른 자료구조일 수도 있다) 를 기반으로 데이터를 탐색해, 적은 탐색만으로 데이터를 찾을 수 있다.
+
+<figure><img src="../../.gitbook/assets/스크린샷 2025-01-19 오후 3.58.48.png" alt=""><figcaption></figcaption></figure>
 
 ## Pros & Cons Of Index
 
@@ -128,4 +144,114 @@ public class PersonRepository {
     }
 }
 
+```
+
+## Configuring Index in MySQL
+
+### Create Basic Index
+
+특정 컬럼에 대해 기본 인덱스를 생성하려면 아래 명령어를 사용한다.
+
+```sql
+CREATE INDEX index_name ON table_name(column_name);
+```
+
+**예시**\
+`users` 테이블의 `age` 컬럼에 인덱스를 생성한다.
+
+```sql
+CREATE INDEX idx_age ON users(age);
+```
+
+***
+
+### Create Unique Index
+
+유니크 인덱스는 특정 컬럼의 값이 중복되지 않도록 설정할 때 사용한다.
+
+```sql
+CREATE UNIQUE INDEX index_name ON table_name(column_name);
+```
+
+**예시**\
+`email` 컬럼에 유니크 인덱스를 생성한다.
+
+```sql
+CREATE UNIQUE INDEX idx_email ON users(email);
+```
+
+***
+
+### Create Composite Index
+
+복합 인덱스는 두 개 이상의 컬럼에 대해 생성하여 특정 쿼리의 성능을 향상시킨다.
+
+```sql
+CREATE INDEX index_name ON table_name(column1, column2);
+```
+
+**예시**\
+`first_name`과 `last_name` 컬럼에 복합 인덱스를 생성한다.
+
+```sql
+CREATE INDEX idx_full_name ON users(first_name, last_name);
+```
+
+***
+
+### Set Index While Creating Table
+
+테이블 생성 시 `CREATE TABLE` 명령어를 사용하여 인덱스를 설정할 수 있다.
+
+```sql
+CREATE TABLE table_name (
+    column1 data_type,
+    column2 data_type,
+    ...
+    INDEX index_name (column_name)
+);
+```
+
+**예시**\
+테이블 생성 시 `age` 컬럼에 인덱스를 추가한다.
+
+```sql
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255),
+    age INT,
+    INDEX idx_age (age)
+);
+```
+
+***
+
+### Delete Index
+
+인덱스를 삭제하려면 `DROP INDEX` 명령어를 사용한다.
+
+```sql
+DROP INDEX index_name ON table_name;
+```
+
+**예시**\
+`users` 테이블에서 `idx_age` 인덱스를 삭제한다.
+
+```sql
+DROP INDEX idx_age ON users;
+```
+
+***
+
+### Clustered Index
+
+MySQL에서는 기본 키(Primary Key)가 자동으로 클러스터드 인덱스를 생성하므로 별도로 설정할 필요는 없다.\
+아래 예시에서 기본 키 설정은 클러스터드 인덱스를 자동으로 생성한다.
+
+```sql
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255),
+    age INT
+);
 ```
