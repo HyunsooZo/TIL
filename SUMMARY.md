@@ -68,6 +68,7 @@
 * [💁 Et Cetera](today-i-learned/et-cetera/README.md)
   * [🧜 Tool : Mermaid Sequence Diagram](today-i-learned/et-cetera/tool-mermaid-sequence-diagram.md)
   * [🪄 Linux : Commands](today-i-learned/et-cetera/linux-commands.md)
+  * [📄 Docs : Redoc](today-i-learned/et-cetera/docs-redoc.md)
 * [🪞 Personal Reflections](today-i-learned/personal-reflections/README.md)
   * [1️ 1st Year](today-i-learned/personal-reflections/1st-year.md)
 
