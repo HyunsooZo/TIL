@@ -55,7 +55,7 @@ Spring AOP는 프록시 패턴을 기반으로 동작한다. \
 스프링 컨테이너는 특정 Bean에 대해 프록시 객체를 생성하고, \
 이 프록시를 통해 메서드 호출을 가로채어 Advice를 실행한다.
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-01-04 오후 6.08.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-01-04 오후 6.08.48.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
