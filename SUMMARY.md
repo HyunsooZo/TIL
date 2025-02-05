@@ -22,6 +22,7 @@
   * [🐸 Java : Generic With Extends](today-i-learned/java/java-generic-with-extends/README.md)
     * [✔️ vs Sealed Interface](today-i-learned/java/java-generic-with-extends/vs-sealed-interface.md)
   * [🟰 Java : Concurrency](today-i-learned/java/java-concurrency.md)
+  * [🪨 Java : Immutable Objects](today-i-learned/java/java-immutable-objects.md)
 * [🥁 Kotlin](today-i-learned/kotlin/README.md)
   * [🏀 Kotlin : Basic](today-i-learned/kotlin/kotlin-basic.md)
   * [⛹️‍♂️ Kotlin : Functional Programming](today-i-learned/kotlin/kotlin-functional-programming.md)
