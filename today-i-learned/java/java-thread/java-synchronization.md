@@ -37,7 +37,7 @@ public class SynchronizedExample {
 
 ### Flow
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-01-16 오후 10.20.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-01-16 오후 10.20.59.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -83,7 +83,7 @@ public class ReentrantLockExample {
 
 ### Flow
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-01-16 오후 10.22.39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-01-16 오후 10.22.39.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -133,7 +133,7 @@ public class StampedLockExample {
 
 ### Flow
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-01-16 오후 10.24.00.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-01-16 오후 10.24.00.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -167,7 +167,7 @@ public class AtomicExample {
 
 ### Flow
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-01-16 오후 10.25.30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-01-16 오후 10.25.30.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -208,7 +208,7 @@ public class CompletableFutureExample {
 
 ### Flow
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-01-16 오후 10.28.14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-01-16 오후 10.28.14.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
