@@ -14,7 +14,7 @@ description: 자바에서 스레드 관련 클래스 및 메서드, 스레드의
 각 스레드는 고유의 실행 스택과 레지스터를 가지지만, \
 **같은 프로세스 내의 다른 스레드들과 메모리를 공유**한다.
 
-<figure><img src="../../.gitbook/assets/스크린샷 2024-11-09 오후 10.14.40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2024-11-09 오후 10.14.40.png" alt=""><figcaption></figcaption></figure>
 
 ## Multi-Threading?&#x20;
 
@@ -85,7 +85,7 @@ public class Main {
 
 자바의 스레드는 다음과 같은 생명 주기를 가진다:
 
-<figure><img src="../../.gitbook/assets/스크린샷 2024-11-09 오후 10.20.01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2024-11-09 오후 10.20.01.png" alt=""><figcaption></figcaption></figure>
 
 1. **NEW**: 스레드가 생성되었지만 `start()` 메서드가 호출되지 않은 상태이다.
 2. **RUNNABLE**: `start()` 메서드가 호출되어 실행 가능한 상태로 전환되었지만, 실제 CPU에 의해 실행 중인지 여부는 확정되지 않았다.
@@ -151,4 +151,4 @@ public class SynchronizedExample {
 * 타임아웃을 사용하여 락을 기다리는 시간을 제한한다.
 * 데드락 탐지 알고리즘을 구현한다.
 
-<figure><img src="../../.gitbook/assets/스크린샷 2024-11-09 오후 10.23.23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2024-11-09 오후 10.23.23.png" alt=""><figcaption></figcaption></figure>
