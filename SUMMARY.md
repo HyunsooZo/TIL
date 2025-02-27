@@ -28,6 +28,7 @@
   * [🏀 Kotlin : Basic](today-i-learned/kotlin/kotlin-basic.md)
   * [⛹️‍♂️ Kotlin : Functional Programming](today-i-learned/kotlin/kotlin-functional-programming.md)
   * [🍃 Kotlin : Kotlin + Spring](today-i-learned/kotlin/kotlin-kotlin-+-spring.md)
+  * [😖 Kotlin : Conflict With JPA](today-i-learned/kotlin/kotlin-conflict-with-jpa.md)
   * [🦎 Kotlin : tailrec](today-i-learned/kotlin/kotlin-tailrec.md)
   * [🧩 Kotlin : infix](today-i-learned/kotlin/kotlin-infix.md)
   * [🎫 Kotlin : sealed class](today-i-learned/kotlin/kotlin-sealed-class.md)
