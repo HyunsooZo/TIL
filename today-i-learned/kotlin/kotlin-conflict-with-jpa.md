@@ -9,8 +9,9 @@ description: >-
 ## Why They Conflict
 
 Kotlin은 기본적으로 클래스와 메서드가 `final`이며, 불변성을 강조하기 위해 `val`을 많이 사용한다. \
-반면에 JPA는 Lazy Loading 시 엔티티를 상속받아 프록시 객체를 생성해야 하므로,\
-클래스나 메서드가 `final`이면 문제가 생길 수 있다. \
+반면에 JPA는 빈 객체를 생성한 후 필드를 채워넣는 방법으로 동작하며, (기본생성자 필수!)\
+&#x20;Lazy Loading 시 엔티티를 상속받아 프록시 객체를 생성해야 하므로,\
+클래스나 메서드가 `final`이거나 필드가 `val`이면 문제가 생길 수 있다. \
 또한 JPA 스펙에서 요구하는 기본 생성자를 Kotlin이 자동으로 제공하지 않는 점도 충돌을 야기한다.
 
 ## Common Issues
@@ -63,7 +64,10 @@ noArg {
 }
 ```
 
-이렇게 설정하면 Kotlin이 만들어내는 바이트코드가 JPA가 기대하는 형태에 부합하게 되어, \
+JPA(Hibernate/Spring)가 엔티티를 다룰 때, 동적 프록시를 생성한다. \
+이 프록시는 엔티티 클래스를 상속하거나 필드에 접근해서 동작하는데, \
+Kotlin의 클래스 구조나 컴파일 방식 때문에 다음과 같은 충돌이 발생할 수 있다\
+하지만 위와 같이 설정하면 Kotlin이 만들어내는 바이트코드가 JPA가 기대하는 형태에 부합하게 되어, \
 충돌 없이 엔티티를 사용할 수 있다.
 
 ### **Declare Entity Fields Properly**
@@ -71,6 +75,15 @@ noArg {
 * 엔티티의 필드를 `var`로 두면, JPA가 값 주입이나 변경을 수행하기 용이하다.
 * 불변성을 선호한다면, 생성자에서만 필드를 할당하고 `private set`을 붙이거나, \
   생성자 파라미터 활용 후 값을 수정하지 않는 방식을 적용할 수 있다.
+
+```java
+@Entity
+data class ImageEntity(
+    @Id
+    var id: Long? = null,
+    var name: String? = null
+)
+```
 
 ### **Entity in Java, Others in Kotlin**
 
