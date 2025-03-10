@@ -36,7 +36,7 @@ description: >-
 예를 들어, 다른 언어에서 복잡한 반복문을 작성해야 하는 작업이 파이썬에서는 단 몇 줄로 끝난다. \
 아래는 파이썬과 내 주력 언어인 자바/코틀린으로 작성된 반복문 비교이다.
 
-<figure><img src="../.gitbook/assets/스크린샷 2025-03-06 오후 8.52.05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2025-03-06 오후 8.52.05.png" alt=""><figcaption></figcaption></figure>
 
 이처럼 파이썬은 코틀린보다 코드가 간결하고 이해하기 쉽다.
 
@@ -107,7 +107,7 @@ PyPI(Python Package Index)에는 수십만 개의 패키지가 등록되어 있�
 
 아래는 라이브러리 설치와 사용 흐름이다. 장고는 추후 따로 포스팅 할 것 이므로 그때 따로 다루겠다.
 
-<figure><img src="../.gitbook/assets/스크린샷 2025-03-06 오후 8.48.35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2025-03-06 오후 8.48.35.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
