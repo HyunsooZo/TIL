@@ -34,6 +34,7 @@
   * [🎫 Kotlin : sealed class](today-i-learned/kotlin/kotlin-sealed-class.md)
 * [🐠 Python](today-i-learned/python/README.md)
   * [Chapter 3 : Features](today-i-learned/python/chapter-3-features.md)
+  * [Chapter 4 : Basics](today-i-learned/python/chapter-4-basics.md)
 * [🥌 DataBase](today-i-learned/database/README.md)
   * [🔍 DB : Index](today-i-learned/database/index.md)
   * [🔓 DB : Lock](today-i-learned/database/db-lock.md)
