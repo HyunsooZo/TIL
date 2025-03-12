@@ -37,6 +37,7 @@
   * [Chapter 4 : Basics](today-i-learned/python/chapter-4-basics.md)
   * [Chapter 5 : Control Structures](today-i-learned/python/chapter-5-control-structures.md)
   * [Chapter 6 : Logical Operations](today-i-learned/python/chapter-6-logical-operations.md)
+  * [Chapter 7 : Loop](today-i-learned/python/chapter-7-loop.md)
 * [🥌 DataBase](today-i-learned/database/README.md)
   * [🔍 DB : Index](today-i-learned/database/index.md)
   * [🔓 DB : Lock](today-i-learned/database/db-lock.md)
