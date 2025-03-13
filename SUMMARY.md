@@ -39,6 +39,7 @@
     * [Chapter 5 : Control Structures](today-i-learned/python/python-lecture-review/chapter-5-control-structures.md)
     * [Chapter 6 : Logical Operations](today-i-learned/python/python-lecture-review/chapter-6-logical-operations.md)
     * [Chapter 7 : Loop](today-i-learned/python/python-lecture-review/chapter-7-loop.md)
+    * [Chapter 8 : Pop Quiz](today-i-learned/python/python-lecture-review/chapter-8-pop-quiz.md)
     * [Chapter 9 : Function](today-i-learned/python/python-lecture-review/chapter-9-function.md)
 * [🥌 DataBase](today-i-learned/database/README.md)
   * [🔍 DB : Index](today-i-learned/database/index.md)
