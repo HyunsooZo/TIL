@@ -79,7 +79,7 @@ if 3 in [1,3,5,7]: print("3이 들어있습니다")
 * Python 소스 코드는 바이트 코드(.pyc 파일)로 변환된다.
 * Python 가상 머신(PVM)이 바이트 코드를 실행한다.
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-03-10 오후 9.29.45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-03-10 오후 9.29.45.png" alt=""><figcaption></figcaption></figure>
 
 ## IDE For Python
 

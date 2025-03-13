@@ -18,7 +18,7 @@ while count < 5:
     count += 1
 ```
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-03-12 오후 9.06.30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-03-12 오후 9.06.30.png" alt=""><figcaption></figcaption></figure>
 
 ### Counter Control Loop (for loop)
 
@@ -29,7 +29,7 @@ for i in range(1, 6):
     print(i)
 ```
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-03-12 오후 9.03.05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-03-12 오후 9.03.05.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -43,7 +43,7 @@ for i in range(1, 4):
         print(f"i: {i}, j: {j}")
 ```
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-03-12 오후 9.03.47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-03-12 오후 9.03.47.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -67,7 +67,7 @@ for num in numbers:
     print(num)
 ```
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-03-12 오후 9.04.25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-03-12 오후 9.04.25.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -90,7 +90,7 @@ for i in range(1, 10, 2):
 print(format("Hello", "^10"))  # 중앙 정렬
 ```
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-03-12 오후 9.04.54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-03-12 오후 9.04.54.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

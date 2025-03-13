@@ -21,7 +21,7 @@ if x > 5:
     print("x는 5보다 크다")
 ```
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-03-12 오후 8.36.17 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-03-12 오후 8.36.17 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -49,7 +49,7 @@ print(5 == 5)  # True
 print(4 != 2)  # True
 ```
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-03-12 오후 8.37.18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-03-12 오후 8.37.18.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -108,7 +108,7 @@ print(not True)   # False
 print(not False)  # True
 ```
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-03-12 오후 8.40.10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-03-12 오후 8.40.10.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
