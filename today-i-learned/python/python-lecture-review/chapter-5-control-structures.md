@@ -1,5 +1,5 @@
 ---
-icon: '5'
+icon: clock-five
 ---
 
 # Chapter 5 : Control Structures

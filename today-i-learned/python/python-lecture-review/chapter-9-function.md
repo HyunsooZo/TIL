@@ -1,6 +1,6 @@
 ---
 description: 9강에서는 파이썬의 함수에 대해 알아보았다. 자바와는 다소 다른 (그치만 편한) 특징이 인상깊었다.
-icon: '9'
+icon: clock-nine
 ---
 
 # Chapter 9 : Function

@@ -1,6 +1,6 @@
 ---
 description: 파이썬 프로그래밍 3강 내용 정리
-icon: '3'
+icon: clock-three
 ---
 
 # Chapter 3 : Features

@@ -1,5 +1,5 @@
 ---
-icon: '6'
+icon: clock-six
 ---
 
 # Chapter 6 : Logical Operations

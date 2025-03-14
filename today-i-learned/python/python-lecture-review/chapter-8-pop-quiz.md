@@ -1,6 +1,6 @@
 ---
 description: 8강은 쪽지시험(?) 이었다. 1학년 전공이다보니 매우 쉬운 수준이었다. 기말고사도 이 정도 난이도라면 얼마나 좋을까..?
-icon: '8'
+icon: clock-eight
 ---
 
 # Chapter 8 : Pop Quiz

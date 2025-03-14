@@ -1,6 +1,6 @@
 ---
 description: 파이썬 프로그래밍 4강 내용 정리
-icon: '4'
+icon: clock
 ---
 
 # Chapter 4 : Basics

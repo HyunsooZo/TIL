@@ -41,6 +41,8 @@
     * [Chapter 7 : Loop](today-i-learned/python/python-lecture-review/chapter-7-loop.md)
     * [Chapter 8 : Pop Quiz](today-i-learned/python/python-lecture-review/chapter-8-pop-quiz.md)
     * [Chapter 9 : Function](today-i-learned/python/python-lecture-review/chapter-9-function.md)
+    * [Chapter 10 : Object Oriented](today-i-learned/python/python-lecture-review/chapter-10-object-oriented.md)
+    * [Chapter 11 : Module](today-i-learned/python/python-lecture-review/chapter-11-module.md)
 * [🥌 DataBase](today-i-learned/database/README.md)
   * [🔍 DB : Index](today-i-learned/database/index.md)
   * [🔓 DB : Lock](today-i-learned/database/db-lock.md)

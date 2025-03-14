@@ -1,6 +1,6 @@
 ---
 description: 이번 포스팅에서는 반복문, 리스트, 문자열 서식화 등을 다뤄보았다.
-icon: '7'
+icon: clock-seven
 ---
 
 # Chapter 7 : Loop
