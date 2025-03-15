@@ -43,6 +43,7 @@
     * [Chapter 9 : Function](today-i-learned/python/python-lecture-review/chapter-9-function.md)
     * [Chapter 10 : Object Oriented](today-i-learned/python/python-lecture-review/chapter-10-object-oriented.md)
     * [Chapter 11 : Module](today-i-learned/python/python-lecture-review/chapter-11-module.md)
+    * [Chapter 12 : File](today-i-learned/python/python-lecture-review/chapter-12-file.md)
 * [🥌 DataBase](today-i-learned/database/README.md)
   * [🔍 DB : Index](today-i-learned/database/index.md)
   * [🔓 DB : Lock](today-i-learned/database/db-lock.md)
