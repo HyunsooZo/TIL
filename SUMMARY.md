@@ -12,6 +12,7 @@
   * [🍡 Spring : GraphQL](today-i-learned/editor/spring-graphql.md)
   * [🍀 Spring : JPA](today-i-learned/editor/spring-jpa/README.md)
     * [🆕 JPA : isNew](today-i-learned/editor/spring-jpa/jpa-isnew.md)
+    * [👨‍💼 JPA : EntityManager](today-i-learned/editor/spring-jpa/jpa-entitymanager.md)
     * [☝️ JPA : N + 1 Issue](today-i-learned/editor/spring-jpa/jpa-n-+-1-issue.md)
 * [☕ Java](today-i-learned/java/README.md)
   * [🧩 Java : Thread](today-i-learned/java/java-thread/README.md)
