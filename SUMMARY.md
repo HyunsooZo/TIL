@@ -14,6 +14,7 @@
     * [🆕 JPA : isNew](today-i-learned/editor/spring-jpa/jpa-isnew.md)
     * [👨‍💼 JPA : EntityManager](today-i-learned/editor/spring-jpa/jpa-entitymanager.md)
     * [☝️ JPA : N + 1 Issue](today-i-learned/editor/spring-jpa/jpa-n-+-1-issue.md)
+    * [⛳ JPA : Persistence Context](today-i-learned/editor/spring-jpa/jpa-persistence-context.md)
 * [☕ Java](today-i-learned/java/README.md)
   * [🧩 Java : Thread](today-i-learned/java/java-thread/README.md)
     * [🤹 Thread : Multi- tasking & processing](today-i-learned/java/java-thread/thread-multi-tasking-and-processing.md)
