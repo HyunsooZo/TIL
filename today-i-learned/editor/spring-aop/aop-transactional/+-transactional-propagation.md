@@ -1,4 +1,4 @@
-# 👬 + Transactional Propagation
+# 👬 Transactional : Propagation
 
 ## What is Propagation?
 
