@@ -12,7 +12,7 @@
 `@Transactional`이 적용된 메서드를 호출할 때 **프록시 객체**를 생성하고, 이 프록시를 통해 트랜잭션을 관리한다. \
 AOP가 적용된 방식에 따라 프록시는 트랜잭션을 시작하고 메서드 실행 후 커밋 또는 롤백을 수행한다.
 
-<figure><img src="../../../.gitbook/assets/스크린샷 2025-01-31 오후 7.49.04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/스크린샷 2025-01-31 오후 7.49.04.png" alt=""><figcaption></figcaption></figure>
 
 ## Transaction Management Of Spring
 
