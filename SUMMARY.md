@@ -6,7 +6,7 @@
   * [🚑 Spring : Spring Batch](today-i-learned/editor/spring-spring-batch.md)
   * [🥥 Spring : AOP](today-i-learned/editor/spring-aop/README.md)
     * [🗞️ AOP : @Transactional](today-i-learned/editor/spring-aop/aop-transactional/README.md)
-      * [👬 + Transactional Propagation](today-i-learned/editor/spring-aop/aop-transactional/+-transactional-propagation.md)
+      * [👬 Transactional : Propagation](today-i-learned/editor/spring-aop/aop-transactional/transactional-propagation.md)
   * [📑 Spring : JdbcClient](today-i-learned/editor/spring-jdbcclient.md)
   * [⛳ Spring : RetryTemplate](today-i-learned/editor/spring-retrytemplate.md)
   * [📨 Spring : WebFlux](today-i-learned/editor/spring-webflux.md)
