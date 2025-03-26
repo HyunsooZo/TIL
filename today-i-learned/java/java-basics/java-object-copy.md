@@ -45,7 +45,7 @@ System.out.println(p1.address.city); // "Busan" → 같이 바뀜
 
 ### Diagram
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-03-25 오후 11.18.30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-03-25 오후 11.18.30.png" alt=""><figcaption></figcaption></figure>
 
 두 객체(p1, p2)는 서로 다른 객체지만 **같은 Address 인스턴스를 공유**하고 있다.
 
@@ -89,7 +89,7 @@ System.out.println(p1.address.city); // "Seoul" → 영향을 안 받음
 
 ### Diagram
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-03-25 오후 11.20.24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-03-25 오후 11.20.24.png" alt=""><figcaption></figcaption></figure>
 
 두 객체(p1, p2)는 Address까지 **서로 완전히 분리된 인스턴스**를 가진다.
 
