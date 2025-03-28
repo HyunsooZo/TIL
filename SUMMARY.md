@@ -20,6 +20,7 @@
   * [🐣 Java : Basics](today-i-learned/java/java-basics/README.md)
     * [🌯 Java : Primitive vs Wrapper](today-i-learned/java/java-basics/java-primitive-vs-wrapper.md)
     * [🪞 Java : Object Copy](today-i-learned/java/java-basics/java-object-copy.md)
+    * [🟰 Java : equals & hashCode](today-i-learned/java/java-basics/java-equals-and-hashcode.md)
   * [🧩 Java : Thread](today-i-learned/java/java-thread/README.md)
     * [🤹 Thread : Multi- tasking & processing](today-i-learned/java/java-thread/thread-multi-tasking-and-processing.md)
     * [🦋 Java : Synchronization](today-i-learned/java/java-thread/java-synchronization.md)
