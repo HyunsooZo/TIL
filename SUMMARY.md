@@ -37,6 +37,8 @@
   * [🪨 Java : Immutable Objects](today-i-learned/java/java-immutable-objects.md)
   * [⚠️ Java : Exception](today-i-learned/java/java-exception.md)
   * [🥇 Java : First-Class Citizen & Collection](today-i-learned/java/java-first-class-citizen-and-collection.md)
+  * [🤣 Java : For Fun](today-i-learned/java/java-for-fun/README.md)
+    * [🛫 Java : Multiple Returns](today-i-learned/java/java-for-fun/java-multiple-returns.md)
 * [🥁 Kotlin](today-i-learned/kotlin/README.md)
   * [🏀 Kotlin : Basic](today-i-learned/kotlin/kotlin-basic.md)
   * [⛹️‍♂️ Kotlin : Functional Programming](today-i-learned/kotlin/kotlin-functional-programming.md)
