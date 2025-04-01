@@ -40,6 +40,7 @@
   * [🤣 Java : For Fun](today-i-learned/java/java-for-fun/README.md)
     * [🛫 Java : Multiple Returns](today-i-learned/java/java-for-fun/java-multiple-returns.md)
     * [🤥 Java : new String("\*") == "\*"?](today-i-learned/java/java-for-fun/java-new-string.md)
+    * [🥞 Java : Infinite Stack ≠ No Heap](today-i-learned/java/java-for-fun/java-infinite-stack-no-heap.md)
 * [🥁 Kotlin](today-i-learned/kotlin/README.md)
   * [🏀 Kotlin : Basic](today-i-learned/kotlin/kotlin-basic.md)
   * [⛹️‍♂️ Kotlin : Functional Programming](today-i-learned/kotlin/kotlin-functional-programming.md)
