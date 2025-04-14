@@ -2,7 +2,7 @@
 description: Set에는 어떤 요소를 담을 수 있을까?
 ---
 
-# Java : What Can You Put in a Set?
+# 🏁 Java : What Can You Put in a Set?
 
 ## &#x20;All Objects Are Allowed?
 
