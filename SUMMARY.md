@@ -16,6 +16,7 @@
     * [👨‍💼 JPA : EntityManager](today-i-learned/editor/spring-jpa/jpa-entitymanager.md)
     * [☝️ JPA : N + 1 Issue](today-i-learned/editor/spring-jpa/jpa-n-+-1-issue.md)
     * [⛳ JPA : Persistence Context](today-i-learned/editor/spring-jpa/jpa-persistence-context.md)
+  * [🤞 Spring : CORS](today-i-learned/editor/spring-cors.md)
 * [☕ Java](today-i-learned/java/README.md)
   * [🐣 Java : Basics](today-i-learned/java/java-basics/README.md)
     * [🌯 Java : Primitive vs Wrapper](today-i-learned/java/java-basics/java-primitive-vs-wrapper.md)
