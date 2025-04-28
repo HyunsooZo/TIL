@@ -53,7 +53,7 @@ if, switch가 지나치게 많아진다면, 오히려 분리하는 게 훨씬 �
 ## Real Example
 
 ```java
-java복사편집public class PaymentProcessor {
+public class PaymentProcessor {
     public void process(Payment payment) {
         if (payment.type() == Type.CREDIT_CARD) {
             // 신용카드 처리
