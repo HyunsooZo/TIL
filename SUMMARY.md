@@ -81,6 +81,7 @@
   * [🖇️ Arch : WebServer & Was](today-i-learned/architecture/arch-webserver-and-was.md)
   * [✍️ Arch : CQRS pattern](today-i-learned/architecture/arch-cqrs-pattern.md)
   * [📌 Arch : Versioned Immutable Data Pattern](today-i-learned/architecture/arch-versioned-immutable-data-pattern.md)
+  * [🔪 Arch : When Separation is Better Than Commonality](today-i-learned/architecture/arch-when-separation-is-better-than-commonality.md)
 * [🤹‍♂️ Design Pattern](today-i-learned/design-pattern/README.md)
   * [🔂 Design Pattern : Singlton](today-i-learned/design-pattern/design-pattern-singlton.md)
   * [🏭 Design Pattern : Factory Method](today-i-learned/design-pattern/design-pattern-factory-method.md)
