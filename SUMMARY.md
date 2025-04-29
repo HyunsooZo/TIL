@@ -24,6 +24,7 @@
     * [🪞 Java : Object Copy](today-i-learned/java/java-basics/java-object-copy.md)
     * [🟰 Java : equals & hashCode](today-i-learned/java/java-basics/java-equals-and-hashcode.md)
     * [⌨️ Java : I/O Stream](today-i-learned/java/java-basics/java-i-o-stream.md)
+    * [🥋 Java : Record as DTO](today-i-learned/java/java-basics/java-record-as-dto.md)
   * [🧩 Java : Thread](today-i-learned/java/java-thread/README.md)
     * [🤹 Thread : Multi- tasking & processing](today-i-learned/java/java-thread/thread-multi-tasking-and-processing.md)
     * [🦋 Java : Synchronization](today-i-learned/java/java-thread/java-synchronization.md)
