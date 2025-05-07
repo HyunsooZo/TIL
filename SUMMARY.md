@@ -98,6 +98,7 @@
   * [🧚 Infra : Netty](today-i-learned/infrastructure/infra-netty/README.md)
     * [🌬️ Channel Handler Context](today-i-learned/infrastructure/infra-netty/channel-handler-context.md)
   * [😩 Infra : Timeout](today-i-learned/infrastructure/infra-timeout.md)
+  * [⚖️ Infra : Load Balancing](today-i-learned/infrastructure/infra-load-balancing.md)
 * [🐳 Docker](today-i-learned/docker/README.md)
   * [🥸 Docker : What's Docker?](today-i-learned/docker/docker-whats-docker.md)
   * [🥗 Docker: Container & Image](today-i-learned/docker/docker-container-and-image.md)
