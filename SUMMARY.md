@@ -87,6 +87,7 @@
   * [◻️ Arch : SOLID Principles](today-i-learned/architecture/arch-solid-principles.md)
   * [🔌 Arch : Adapter Pattern](today-i-learned/architecture/arch-adapter-pattern.md)
   * [⭕ Arch : Circuit Breaker Pattern](today-i-learned/architecture/arch-circuit-breaker-pattern.md)
+  * [🗿 Arch : ACID and Architecture](today-i-learned/architecture/arch-acid-and-architecture.md)
 * [🤹‍♂️ Design Pattern](today-i-learned/design-pattern/README.md)
   * [🔂 Design Pattern : Singlton](today-i-learned/design-pattern/design-pattern-singlton.md)
   * [🏭 Design Pattern : Factory Method](today-i-learned/design-pattern/design-pattern-factory-method.md)
