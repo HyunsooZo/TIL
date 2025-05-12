@@ -1,4 +1,4 @@
-# ⚖️ Infra : Load Balancing
+# 🚚 Infra : Load Balancing
 
 ## Load Balancing?
 
