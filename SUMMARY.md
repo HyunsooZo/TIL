@@ -125,6 +125,7 @@
   * [🤯 Issue : Spring Boot Constructor Binding Issue](today-i-learned/et-cetera/issue-spring-boot-constructor-binding-issue.md)
   * [👆 Concept : Idempotency](today-i-learned/et-cetera/concept-idempotency.md)
   * [📥 Concept : Pub/Sub](today-i-learned/et-cetera/concept-pub-sub.md)
+  * [🔀 CS : Context Switching](today-i-learned/et-cetera/cs-context-switching.md)
 * [🪞 Personal Reflections](today-i-learned/personal-reflections/README.md)
   * [1️ 1st Year](today-i-learned/personal-reflections/1st-year.md)
 
