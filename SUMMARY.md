@@ -47,6 +47,7 @@
     * [🥞 Java : Infinite Stack ≠ No Heap](today-i-learned/java/java-for-fun/java-infinite-stack-no-heap.md)
     * [🏁 Java : What Can You Put in a Set?](today-i-learned/java/java-for-fun/java-what-can-you-put-in-a-set.md)
     * [➕ Java : 1.0 + 1.2 = 2.2 ?](today-i-learned/java/java-for-fun/java-1.0-+-1.2-2.2.md)
+    * [😕 Java : How Would You Review This?](today-i-learned/java/java-for-fun/java-how-would-you-review-this.md)
 * [🥁 Kotlin](today-i-learned/kotlin/README.md)
   * [🏀 Kotlin : Basic](today-i-learned/kotlin/kotlin-basic.md)
   * [⛹️‍♂️ Kotlin : Functional Programming](today-i-learned/kotlin/kotlin-functional-programming.md)
