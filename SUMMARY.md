@@ -130,6 +130,7 @@
   * [📥 Concept : Pub/Sub](today-i-learned/et-cetera/concept-pub-sub.md)
   * [🔀 CS : Context Switching](today-i-learned/et-cetera/cs-context-switching.md)
   * [👯‍♂️ Performance : Cache Stampede](today-i-learned/et-cetera/performance-cache-stampede.md)
+  * [🤔 Arch : How would you program?](today-i-learned/et-cetera/arch-how-would-you-program.md)
 * [🪞 Personal Reflections](today-i-learned/personal-reflections/README.md)
   * [1️ 1st Year](today-i-learned/personal-reflections/1st-year.md)
 
