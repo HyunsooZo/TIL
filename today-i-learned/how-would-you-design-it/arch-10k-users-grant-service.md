@@ -5,7 +5,7 @@ description: >-
   참고가 되었다.
 ---
 
-# 🤔 Arch : How would you program?
+# 💰 Arch : 10K Users Grant Service
 
 ## Problem statement
 
@@ -83,7 +83,7 @@ public void processGrant(long userId, int slot) {
 }
 ```
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-05-18 23.16.14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2025-05-18 23.16.14 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

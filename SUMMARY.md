@@ -72,6 +72,9 @@
 * [👨‍⚕️ Code Reviews](today-i-learned/code-reviews/README.md)
   * [😕 How Would You Review This? - vol 1](today-i-learned/code-reviews/how-would-you-review-this-vol-1.md)
   * [😕 How Would You Review This? - vol 2](today-i-learned/code-reviews/how-would-you-review-this-vol-2.md)
+* [🤔 How would you design it?](today-i-learned/how-would-you-design-it/README.md)
+  * [💰 Arch : 10K Users Grant Service](today-i-learned/how-would-you-design-it/arch-10k-users-grant-service.md)
+  * [📤 Arch : MassMailer](today-i-learned/how-would-you-design-it/arch-massmailer.md)
 * [🥌 DataBase](today-i-learned/database/README.md)
   * [🔍 DB : Index](today-i-learned/database/index.md)
   * [🔓 DB : Lock](today-i-learned/database/db-lock.md)
@@ -130,7 +133,6 @@
   * [📥 Concept : Pub/Sub](today-i-learned/et-cetera/concept-pub-sub.md)
   * [🔀 CS : Context Switching](today-i-learned/et-cetera/cs-context-switching.md)
   * [👯‍♂️ Performance : Cache Stampede](today-i-learned/et-cetera/performance-cache-stampede.md)
-  * [🤔 Arch : How would you program?](today-i-learned/et-cetera/arch-how-would-you-program.md)
 * [🪞 Personal Reflections](today-i-learned/personal-reflections/README.md)
   * [1️ 1st Year](today-i-learned/personal-reflections/1st-year.md)
 
