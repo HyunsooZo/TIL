@@ -118,7 +118,7 @@
   * [🧠 Redis : Caching](today-i-learned/redis/redis-caching.md)
   * [🐎 Redis : Practice & Comparison](today-i-learned/redis/redis-practice-and-comparison.md)
   * [🔏 Redis : Distributed Lock](today-i-learned/redis/redis-distributed-lock.md)
-  * [Redis : Why is Redis Single-Threaded?](today-i-learned/redis/redis-why-is-redis-single-threaded.md)
+  * [🦴 Redis : Why is Redis Single-Threaded?](today-i-learned/redis/redis-why-is-redis-single-threaded.md)
 * [👨‍🔬 Test Code](today-i-learned/test-code/README.md)
   * [❓ Test : Why Write Test Code](today-i-learned/test-code/test-why-write-test-code.md)
   * [❕ Test : Coverage & Practice](today-i-learned/test-code/test-coverage-and-practice.md)

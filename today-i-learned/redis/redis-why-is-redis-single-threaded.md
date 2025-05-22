@@ -4,7 +4,7 @@ description: >-
   싱글스레드인가?" 이 포스팅에서는 그 이유와 싱글스레드의 이점을 설명한다.
 ---
 
-# Redis : Why is Redis Single-Threaded?
+# 🦴 Redis : Why is Redis Single-Threaded?
 
 ## Core Design Philosophy
 
