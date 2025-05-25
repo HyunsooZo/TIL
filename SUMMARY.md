@@ -41,6 +41,7 @@
   * [🪨 Java : Immutable Objects](today-i-learned/java/java-immutable-objects.md)
   * [⚠️ Java : Exception](today-i-learned/java/java-exception.md)
   * [🥇 Java : First-Class Citizen & Collection](today-i-learned/java/java-first-class-citizen-and-collection.md)
+  * [Java : Data Access Tools](today-i-learned/java/java-data-access-tools.md)
   * [🤣 Java : For Fun](today-i-learned/java/java-for-fun/README.md)
     * [🛫 Java : Multiple Returns](today-i-learned/java/java-for-fun/java-multiple-returns.md)
     * [🤥 Java : new String("\*") == "\*"?](today-i-learned/java/java-for-fun/java-new-string.md)
