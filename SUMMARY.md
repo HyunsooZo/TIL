@@ -26,6 +26,7 @@
     * [⌨️ Java : I/O Stream](today-i-learned/java/java-basics/java-i-o-stream.md)
     * [🥋 Java : Record as DTO](today-i-learned/java/java-basics/java-record-as-dto.md)
     * [🥛 Java : POJO in Modern Java](today-i-learned/java/java-basics/java-pojo-in-modern-java.md)
+    * [🛡️ Java : Defensive Copy](today-i-learned/java/java-basics/java-defensive-copy.md)
   * [🧩 Java : Thread](today-i-learned/java/java-thread/README.md)
     * [🤹 Thread : Multi- tasking & processing](today-i-learned/java/java-thread/thread-multi-tasking-and-processing.md)
     * [🦋 Java : Synchronization](today-i-learned/java/java-thread/java-synchronization.md)
