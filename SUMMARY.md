@@ -137,6 +137,8 @@
   * [📥 Concept : Pub/Sub](today-i-learned/et-cetera/concept-pub-sub.md)
   * [🔀 CS : Context Switching](today-i-learned/et-cetera/cs-context-switching.md)
   * [👯‍♂️ Performance : Cache Stampede](today-i-learned/et-cetera/performance-cache-stampede.md)
+* [🔫 Trouble Shooting](today-i-learned/trouble-shooting/README.md)
+  * [Java Record in JSP](today-i-learned/trouble-shooting/java-record-in-jsp.md)
 * [🪞 Personal Reflections](today-i-learned/personal-reflections/README.md)
   * [1️ 1st Year](today-i-learned/personal-reflections/1st-year.md)
 
