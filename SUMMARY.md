@@ -6,6 +6,7 @@
   * [🤔 인텔리제이에서 Gradle 빌드시 OutOfMemory 문제](today-i-learned/trouble-shooting/gradle-outofmemory.md)
   * [🤔 백오피스 푸시 대량발송, 왜 다른 서버가 느려졌을까?](today-i-learned/trouble-shooting/undefined.md)
   * [🤔 Java Record를 JSP에서 쓸 수 있을까?](today-i-learned/trouble-shooting/java-record-jsp.md)
+  * [🤔 @Builder를 커스텀 생성자 위에 붙여야만 하는이유](today-i-learned/trouble-shooting/builder.md)
 * [🍃 Spring](<README (1).md>)
   * [🚑 Spring : Spring Batch](today-i-learned/editor/spring-spring-batch.md)
   * [🥥 Spring : AOP](today-i-learned/editor/spring-aop/README.md)
