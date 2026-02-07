@@ -13,7 +13,7 @@
     * Java는 Register-base 가 아닌 Stack-Base로 작동함
     * JVM은 CPU에 직접 지시하지 않고 Stack-Operand를 뽑아 이를 별도의 메모리 공간에 저장하는 방식을 취함. 이러한 메모리 공간을 PC Register 라고 함.
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * PC Register는 각 스레드 마다 하나씩 존재하고 생성 시점도 같음
 * Native Pointer 와 Return Address를 가지고 있음.
 * Java Method를 수행할때 해당 수행 Instruction 주소를 포함함

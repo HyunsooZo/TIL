@@ -4,7 +4,7 @@ description: >-
   예외가 발생하였고, 그 답을 찾았다. 바로 자바 레코드를 사용했기 떄문이었는데 왜 JSP에서는 레코드 사용이 불가한지 알아보았다.
 ---
 
-# 📽️ Java Record in JSP
+# 🤔 Java Record를 JSP에서 쓸 수 있을까?
 
 ## Can JSP use Record?
 

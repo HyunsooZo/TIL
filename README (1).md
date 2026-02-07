@@ -56,7 +56,7 @@ description: >-
     * **View**: 사용자에게 보여질 화면 (e.g., Thymeleaf, HTML, JSON).
     * **Controller**: 사용자의 요청을 받고, Model과 View를 연결.
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 * **활용 팁**
   * Controller에서는 비즈니스 로직을 최대한 제거하고, Service 계층에 위임.
   * DTO 를 사용해 Presentation 계층과 비즈니스 계층 간 데이터 전달 명확화.
@@ -111,7 +111,7 @@ description: >-
 * Bean의 생성, 초기화, 소멸 과정을 알아두면 더 최적화된 코드를 작성 가능.
 * `@PostConstruct`, `@PreDestroy`로 초기화와 종료 시 로직 추가 가능.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Adhering to Layered Architecture
 
