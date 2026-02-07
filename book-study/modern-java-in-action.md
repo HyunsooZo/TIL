@@ -30,8 +30,7 @@ description: written by Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft.
 
 19장의 경우 시간이 조금 지난 후 다시 한번 꼭 읽어봐야겠다.
 
-(아 그리고 20장의 경우 스칼라에 관한 이야기가 많아 따로 책정리 섹션에서 다루진 않았다..)\
-
+(아 그리고 20장의 경우 스칼라에 관한 이야기가 많아 따로 책정리 섹션에서 다루진 않았다..)<br>
 
 ### **책 정리**
 
@@ -148,8 +147,7 @@ List<String> uniqueChars = words.stream()
 
 스트림의 최종 연산인 수집(collect)은 데이터를 특정 형식으로 변환하고 집계할 수 있게 해준다. `Collectors` 클래스는 데이터 수집을 위한 다양한 메서드를 제공하며, `toList()`, `toSet()`, `groupingBy()`, `partitioningBy()` 같은 메서드로 데이터를 원하는 대로 그룹화하거나 분할할 수 있고 이로써 리스트나 맵 등 다양한 자료구조로 변환할 수 있다.\
 (참고로 책에서는 Java 11 까지만 다루지만 Java 16 부터는 \
-`.collect(Collectors.toList())` -> `.toList()`로 간소화 할 수도 있다.)\
-
+`.collect(Collectors.toList())` -> `.toList()`로 간소화 할 수도 있다.)<br>
 
 ```java
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);

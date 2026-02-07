@@ -2,7 +2,7 @@
 description: JdbcClient에 대한 간단한 소개 및 사용법을 정리해 보았다.
 ---
 
-# 📑 JdbcClient
+# 📑 Spring : JdbcClient
 
 ## Spring 6.1: `JdbcClient` 소개 및 활용
 
@@ -118,7 +118,7 @@ Spring 6.1의 `JdbcClient`는 `JdbcTemplate`보다 더 간결하고 직관적인
 
 <table><thead><tr><th width="207">항목</th><th>JdbcClient</th><th>QueryDSL</th></tr></thead><tbody><tr><td><strong>주요 목적</strong></td><td>SQL 기반 데이터베이스 작업을 간단하고 직관적으로 처리</td><td>타입 안전한 JPQL/HQL 쿼리 생성 및 동적 쿼리 지원</td></tr><tr><td><strong>SQL 작성 방식</strong></td><td>직접 SQL 작성 (문자열 기반)</td><td>Java 코드로 쿼리 작성 (타입 안전성 보장)</td></tr><tr><td><strong>동적 쿼리</strong></td><td>제한적 (파라미터 바인딩으로 처리)</td><td>매우 강력함. Java 문법을 활용하여 동적으로 쿼리 작성 가능</td></tr><tr><td><strong>타입 안전성</strong></td><td>SQL 문자열에 의존하여 컴파일 시 타입 체크가 되지 않음</td><td>Java 객체와 메서드 기반으로 컴파일 시 타입 안전성 보장</td></tr><tr><td><strong>쿼리 파라미터 바인딩</strong></td><td><code>param()</code> 메서드를 사용해 파라미터를 바인딩</td><td><code>BooleanExpression</code> 등을 사용해 파라미터를 안전하게 바인딩</td></tr><tr><td><strong>트랜잭션 관리</strong></td><td>Spring의 <code>@Transactional</code>로 간단하게 관리 가능</td><td>JPA의 트랜잭션 관리를 통해 기본적으로 제공됨</td></tr><tr><td><strong>결과 매핑</strong></td><td>직접 매핑 (<code>fetch().list()</code>, <code>fetch().one()</code>)</td><td>JPA 엔티티 자동 매핑 및 별도 DTO로 매핑 가능</td></tr><tr><td><strong>러닝 커브</strong></td><td>상대적으로 낮음, SQL에 익숙하면 바로 사용 가능</td><td>상대적으로 높음, <code>QueryDSL</code>의 DSL(도메인 특화 언어)에 익숙해져야 함</td></tr><tr><td><strong>유연성</strong></td><td>SQL의 모든 기능을 활용할 수 있음</td><td>동적 쿼리 및 조건 추가에 매우 유연함</td></tr><tr><td><strong>지원되는 DB</strong></td><td>SQL을 지원하는 모든 데이터베이스</td><td>JPA 또는 Hibernate와 연동되는 모든 데이터베이스</td></tr><tr><td><strong>복잡한 쿼리 작성</strong></td><td>복잡한 SQL 쿼리도 자유롭게 작성 가능</td><td>복잡한 동적 쿼리를 타입 안전하게 작성 가능</td></tr><tr><td><strong>라이브러리 의존성</strong></td><td><code>spring-boot-starter-data-jdbc</code></td><td><code>querydsl-jpa</code>, <code>querydsl-apt</code>, JPA 의존성 필요</td></tr><tr><td><strong>성능</strong></td><td>SQL을 직접 실행하여 성능 최적화 가능</td><td>Hibernate나 JPA를 거쳐 실행되므로 약간의 오버헤드 발생 가능</td></tr></tbody></table>
 
-### \[성능  비교 표] 
+### \[성능  비교 표]<br>
 
 | 항목            | JdbcClient                  | QueryDSL                        |
 | ------------- | --------------------------- | ------------------------------- |
