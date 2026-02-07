@@ -30,25 +30,11 @@ layout:
 
 ### 원인
 
-다른 서버의 장애 이유는 거대 배치로 인한 DB 커넥션 장기 점유입니다.
-
-먼저 간략한 앱 푸쉬 전송 흐름도를 확인 해보면 들어온 요청 건 수 만큼 벌크인서트를 진행하고있습니다.
-
+다른 서버의 장애 이유는 거대 배치로 인한 DB 커넥션 장기 점유입니다.\
+먼저 간략한 앱 푸쉬 전송 흐름도를 확인 해보면 들어온 요청 건 수 만큼 벌크인서트를 진행하고있습니다.\
 문제는 해당 부분입니다.
 
-```mermaid
-flowchart TD
-		D["FcmService.sendFcm"]
-    D --> E["FcmHistoryService.save"]
-    E -->|저장 먼저함| F["JdbcFcmHistoryRepository.bulkSave<br/>JdbcTemplate.batchUpdate<br/>다건 INSERT 한번에 처리"]
-    F --> G[("PUSH_MESSAGE 테이블")]
-    D --> H["FcmGateway.sendList"]
-    H --> K["FCM 서버"]
-    K --> L["디바이스 푸시 수신"]
-    
-    style F fill:#ff6b6b,stroke:#c92a2a,stroke-width:3px,color:#fff
-    style G fill:#ffd43b,stroke:#f59f00,stroke-width:2px,color:#000
-```
+<figure><img src="../../.gitbook/assets/스크린샷 2026-02-07 22.03.19.png" alt=""><figcaption></figcaption></figure>
 
 ### 왜 DB 커넥션 점유가 왜 길어졌을까?
 
