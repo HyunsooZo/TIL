@@ -3,6 +3,7 @@
 ## 💡 TODAY I LEARNED
 
 * [🔫 Trouble Shooting](README.md)
+  * [🤔 백오피스 푸시 대량발송, 왜 다른 서버가 느려졌을까?](today-i-learned/trouble-shooting/undefined.md)
   * [📽️ Java Record in JSP](today-i-learned/trouble-shooting/java-record-in-jsp.md)
 * [🍃 Spring](<README (1).md>)
   * [🚑 Spring : Spring Batch](today-i-learned/editor/spring-spring-batch.md)
